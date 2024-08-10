@@ -126,7 +126,7 @@ int main()
 {
     fstream file;
     string filename;
-    filename = "vocab2.txt";//contains the list of words for the dictionary
+    filename = "vocab.txt";//contains the list of words for the dictionary
     ptr = 0;
     string word;
     vector<string> dictionary;//to store the words in the file
